@@ -12,3 +12,24 @@ add images
 ![1](/images/my-first-docs-4506065b21f78d/2023-07-14-00-17-32.png)
 ![2](/images/my-first-docs-4506065b21f78d/2023-07-14-00-17-37.png)
 ![3](/images/my-first-docs-4506065b21f78d/2023-07-14-00-17-39.png)
+
+:::note info
+
+インフォメーション
+
+infoは省略可能です。
+
+
+:::
+
+:::note warn  
+警告  
+○○に注意してください。  
+:::  
+
+:::note alert
+より強い警告
+○○しないでください。
+:::
+
+
